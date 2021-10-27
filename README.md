@@ -19,5 +19,5 @@
 
 O objetivo foi criar uma interface de streaming integrada, pensando no conceito de disponibilizar os lançamentos dos principais filmes e séries dos principais serviços de streaming (HBO, apple tv, Netflix, Amazon Prime, entre outros) e também cinema, assim surgiu a GATOFLIX o lugar onde você encontra o que há de mais novo na 7ª arte! (kekeke:stuck_out_tongue_closed_eyes:)
 
-
-
+## ACESSO:
+Você pode acessar a interface em: https://gatoflix.netlify.app/
